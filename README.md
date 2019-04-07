@@ -40,7 +40,8 @@ WordPress2の頃から触っていたのですでに10年以上になります�
 また、具体的になっていない案件や、ホームページリニューアルなどもお気軽にご相談ください。
 是非、お会いしてお話ししましょう。
 
-- [お問い合わせ](http://qiita.com/)
-- [Twitter](https://twitter.com/eternity_hiro)
+- <a href="http://eternitydesign.net/contact/" target="_blank">お問い合わせ</a>
+- <a href="https://twitter.com/eternity_hiro" target="_blank">Twitter</a>
+
 
 
